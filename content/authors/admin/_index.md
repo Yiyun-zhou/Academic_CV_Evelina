@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Chenchen (Evelina) Wu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chenchen
+last_name: Wu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧪
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,73 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 还没定呢
+    url: 这里放url
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:chenchenwu0310@163.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: ‘’
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: ''
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: ''
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://uk.linkedin.com/in/chenchen-evelina-wu-55225b229
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: ‘’
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: ‘’
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Lab
+  - 鸽zyy
+  - 不回微信
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Chemistry
+    institution: 我家
+    date_start: ''
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      ''
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: ''
+  - area: MSc Advanced Materials Science and Engineering
+    institution: Imperial College London
+    date_start: 2023-09-01
+    date_end: 2024-09-01
     summary: |
-      GPA: 3.8/4.0
+      Grade: Distinction
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis:
+
+  - area: BSc Chemistry
+    institution: University of Bristol
+    date_start: 2020-09-01
+    date_end: 2023-07-01
     summary: |
-      GPA: 3.4/4.0
+      Grade: First Class Honours
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+      Thesis:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -146,7 +127,7 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
+  - name: Japanese
     percent: 25
 
 # Awards.
@@ -183,4 +164,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chenchen (Evelina) Wu is a highly self-motivated individual whose enthusiasm stems from chemistry🔬. She is devoted to her pursuits and is always willing to go the extra mile for the field she loves.
+
+As a person, Evelina is a lovely and determined individual, known for getting along well with everyone she meets. Her kind nature shines through in all her interactions, leaving a positive impression on all who know her. She also has a cute cat🐱 named 虎太郎, who is 4 years old and always brings a little extra joy into her life 🐾.
